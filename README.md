@@ -94,7 +94,7 @@ Currently developing an MVP that uses AI agents to automate uptime monitoring an
 
 ## 🔥 Current Focus
 
-- 📖 **Teaching**: Sharing knowledge and best practices on [YouTube channel @chiplonton](https://youtube.com/@chiplonton)
+- 📖 **Teaching**: Sharing knowledge and best practices on [YouTube channel @culiops](https://www.youtube.com/@culiops)
 - 🤖 **AI Automation**: Building agents that handle daily operational tasks automatically
 - 🔨 **Product Development**: Creating CuliUptime to transform traditional monitoring workflows
 - 🌱 **Learning**: Latest in Platform Engineering and Developer Experience
@@ -109,10 +109,9 @@ Currently developing an MVP that uses AI agents to automate uptime monitoring an
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanh-thuong-le-a8938567/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@chiplonton)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lethanhthuong/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@culiops)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:admin@culiops.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://culiops.net)
 
 🎤 **Speaking Topics**: Platform Engineering, SRE Best Practices, "Why Your Monitoring is Lying to You"
 
